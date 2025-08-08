@@ -18,14 +18,13 @@
 #
 # requirements.txt (put these in a file when you deploy)
 # -----------------------------------------------------
-# streamlit==1.37.0
-# pydantic==2.8.2
-# pandas==2.2.2
-# scikit-learn==1.4.2
-# numpy==1.26.4
-# plotly==5.22.0
-# requests==2.32.2
-# python-dotenv==1.0.1
-#
+streamlit==1.37.0
+pydantic==2.8.2 
+pandas==2.2.2
+scikit-learn==1.4.2
+numpy==1.26.4
+plotly==5.22.0
+requests==2.32.2
+python-dotenv==1.0.1
 # NOTE: This app uses placeholder scoring and clustering logic so you can demo end-to-end.
 # Swap in your providers where marked with TODOs.
